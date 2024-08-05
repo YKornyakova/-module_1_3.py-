@@ -3,8 +3,6 @@ name = "Yuliya"
 print(name, type(name))
 age = 36
 print(age, type(age))
-new_age = "2"
-print(age+int(new_age))
 print(age+1)
 is_student = "True"
 print(is_student)
